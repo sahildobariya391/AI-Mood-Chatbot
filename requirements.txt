@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+
+pydantic
+requests
+
+numpy
+pandas
+
+tiktoken
